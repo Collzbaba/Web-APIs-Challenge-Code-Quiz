@@ -21,8 +21,10 @@ Technologies Used:
 JavaScript
 HTML
 Materialize CSS
- Live URL:
- ![live url](https://collzbaba.github.io/Web-APIs-Challenge-Code-Quiz/)
+ 
+ Live URL: 
+ [live url](https://collzbaba.github.io/Web-APIs-Challenge-Code-Quiz/)
+ 
  Images:
  ![Quiz1](image/quiz1.png)
  ![Quiz2](image/quiz2.png)
