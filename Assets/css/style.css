@@ -1,0 +1,16 @@
+button {
+    display:block;
+    color: #000;
+    background-color: aquamarine;
+  }
+  
+  li {
+    list-style-type: none;
+    color: black;
+    background-color: aquamarine;
+  }
+  body { display: block;
+    background-color: blueviolet;
+    color: aqua;
+
+  }
